@@ -9,6 +9,6 @@ For my master's capstone, I tested whether 8,950 credit card holders could be gr
 - Profiled three segments (engaged high spenders, low-engagement cautious users, and cash-advance-reliant revolvers) and translated each into a targeted strategy
 - Reported a silhouette score of 0.25, failed to reject the null hypothesis, and documented why K-Means assumptions likely limited separation, recommending DBSCAN and Gaussian mixture models as next steps
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/credit-card-customer-segmentation/blob/main/credit-card-customer-segmentation/customer-profiling-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/7JkRqGxZsZ4)
